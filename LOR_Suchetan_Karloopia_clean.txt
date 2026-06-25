@@ -1,0 +1,24 @@
+Letter of Recommendation for Mr. Suchetan Karloopia
+
+To the Graduate Admissions Committee,
+
+It is with genuine enthusiasm that I recommend Mr. Suchetan Karloopia for admission to your Master's program. I came to know Suchetan well over the course of his undergraduate studies at the National Institute of Technology, Srinagar, where I taught him in three of my courses - Chemical Reaction Engineering, Energy Technology, and, most memorably, Modeling and Simulation of Chemical Process Systems. It is in the last of these that I saw the very best of him, and it is on that basis that I can recommend him with real conviction.
+
+Suchetan was, quite simply, one of the strongest students in my Modeling and Simulation course - a class of approximately 85 students - in which he ranked among the very top of the cohort and earned the highest score in the end-term examination. But examination marks alone do not capture what set him apart. Computational modeling is a subject where many students can follow a recipe but few can think for themselves, and Suchetan clearly belonged to the latter group. He grasped not just how to run a simulation, but why a model behaves as it does - the assumptions behind it, its limitations, and what its results actually mean physically. That deeper understanding is rare at the undergraduate level, and it is exactly the quality that predicts success in graduate research.
+
+This was demonstrated most vividly in an open-ended course project, for which I asked students to build a computational study using the CatMAP microkinetic modeling framework. Suchetan chose a genuinely ambitious topic - the catalytic hydrogenation of CO2 to methanol - and the result, his paper "Computational Study of CO2 Hydrogenation to Methanol via the Formate Pathway: A Microkinetic and Volcano Analysis Across Eight Transition Metal Catalysts," frankly exceeded what I expect from an undergraduate.
+
+He constructed a complete microkinetic model of the formate pathway with eleven elementary steps, applied linear scaling relations and Bronsted-Evans-Polanyi correlations to parameterize the reaction network across eight transition-metal catalysts, and carried out a two-descriptor volcano analysis, free-energy diagrams, surface-coverage maps, and a degree-of-rate-control analysis to pinpoint the rate-limiting step. He worked through subtle, non-obvious aspects of the CatMAP setup largely on his own - the kind of problem-solving that cannot be taught from a textbook. I was genuinely impressed not only by the scientific quality of the work, but also by the care he took in presenting it: the entire paper was typeset professionally in LaTeX, to a standard I would associate with a published manuscript rather than a course assignment. The combination of technical depth, independence, and polish told me a great deal about how seriously he takes his work.
+
+I should be candid that Suchetan's true passion lies in computational and simulation-based work; while he performed competently across the rest of the curriculum, including Chemical Reaction Engineering and Energy Technology, it was in modeling that his ability and motivation aligned most powerfully. In my experience, the students who go on to do excellent research are precisely those who find the one area that captivates them and pursue it with this kind of intensity. Suchetan has clearly found his.
+
+His broader record reinforces this. His vocational training at National Fertilizers Limited gave him real exposure to large-scale process operations, his final-year thesis on sustainable bio-composites shows breadth, and his self-driven study of machine learning for chemical process industries reflects a student who actively seeks out computational challenges. He is diligent, intellectually curious, and communicates complex ideas with clarity.
+
+In summary, I give Suchetan Karloopia my strong recommendation for your Master's program. He has the analytical ability, the computational skill, and - most importantly - the genuine curiosity that distinguishes a good student from a promising researcher. I am confident he will thrive in advanced study, and I would be happy to provide any further information.
+
+Sincerely,
+
+Dr. Fatima Jalid
+Assistant Professor
+Department of Chemical Engineering
+National Institute of Technology, Srinagar
